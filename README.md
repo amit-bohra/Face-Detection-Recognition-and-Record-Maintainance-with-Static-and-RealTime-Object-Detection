@@ -1,3 +1,23 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@ To Run This Project You Will Require :                                              @
+@ Python 3 and following Libraries:                                                   @
+@ opencv 2                                                                            @
+@ numpy                                                                               @ 
+@ pandas                                                                              @
+@ face_recognition                                                                    @
+@ smtplib                                                                             @
+@                                         		                                          @
+@ All YoloV3 files are already provided but                                           @
+@ Download  "yolov3.weights" from https://pjreddie.com/media/files/yolov3.weights     @
+@                                                                                     @
+@ and paste into Same Project Directory                                               @ 
+@ Just Download and Run "FinalProject.py" file                                        @
+@ Enjoy								                                                                       @
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+
+
+
 # Object detection using deep learning with OpenCV and Python 
 
 OpenCV `dnn` module supports running inference on pre-trained deep learning models from popular frameworks like Caffe, Torch and TensorFlow. 
